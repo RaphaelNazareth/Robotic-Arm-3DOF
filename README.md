@@ -58,4 +58,4 @@ This project features a **3DOF robotic arm** that uses a **magnet** to efficient
 📩 **Contact:** For inquiries or collaborations, reach out via GitHub Issues.  
 
 
-![Top-View Machine Learning](https://your-image-url.png)
+![Top-View Machine Learning](MachineLearning_topView.png)
