@@ -44,7 +44,7 @@ This project features a **3DOF robotic arm** that uses a **magnet** to efficient
      pip install opencv-python tensorflow numpy
      ```
    - Upload Arduino code to the board using Arduino IDE.  
-
+  
 ## 🔜 Future Improvements  
 - Enhancing machine learning accuracy  
 - Adding **Bluetooth connectivity** for mobile control  
@@ -56,3 +56,6 @@ This project features a **3DOF robotic arm** that uses a **magnet** to efficient
 💡 **Contributions are welcome!** Feel free to fork this repository and submit pull requests.  
 
 📩 **Contact:** For inquiries or collaborations, reach out via GitHub Issues.  
+
+
+![Top-View Machine Learning](https://your-image-url.png)
