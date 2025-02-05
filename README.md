@@ -59,3 +59,4 @@ This project features a **3DOF robotic arm** that uses a **magnet** to efficient
 
 
 ![Top-View Machine Learning](MachineLearning_topView.png)
+![TheWholeProjectView](ProjectImage.jpg)
