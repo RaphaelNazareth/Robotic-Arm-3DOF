@@ -61,5 +61,6 @@ If you want to **replicate this robotic arm**, make sure the dimensions match **
 ### 3️⃣ **Installation**  
 Clone this repository:  
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/RaphaelNazareth/Robotic-Arm-3DOF.git
+cd Robotic-Arm-3DOF
+
