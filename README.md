@@ -20,13 +20,13 @@ This project features a **3DOF robotic arm** that uses a **magnet** to efficient
 - Robotics and AI research  
 
 ## 🔧 Setup Instructions  
-1. **Hardware Requirements**  
-   - 3DOF robotic arm with 360° and 180° servos  
-   - Magnet-based gripper  
-   - Camera for object detection  
-   - Arduino board for servo control  
-   - Power supply (consider a small power bank)  
-
+1.  🔧 Hardware Requirements  
+- 🦾 **3D-Printed Custom Robotic Arm** (3DOF: 360° + 180° + 180° servos)  
+- 🧲 **Electromagnet** as the end effector  
+- 🎮 **Two Arduino Boards** (one for 360° servo, one for 180° servos)  
+- ⚡ **Power Supply:** 5V 40A  
+- 📷 **Camera positioned 50cm above the items, looking downward**
+- 
 2. **Software Requirements**  
    - Arduino IDE for servo control  
    - Python with OpenCV & TensorFlow for object detection  
